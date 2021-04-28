@@ -1,5 +1,5 @@
 Screenshot: 
-<img src="https://github.com/mm528/Solar-System/blob/main/Solar-Screenshot.pngg">
+<img src="https://github.com/mm528/Solar-System/blob/main/Solar-Screenshot.png">
 
 </img>
 # Solar-System
